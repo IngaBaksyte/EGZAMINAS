@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T09:49:06 EET" name="Default Suite" finished-at="2024-03-21T09:49:10 EET" duration-ms="4628">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T09:49:06 EET" name="EGZAMINAS-TestNG" finished-at="2024-03-21T09:49:10 EET" duration-ms="4628">
+      <class name="CalculatorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:06 EET" name="setup" finished-at="2024-03-21T09:49:07 EET" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="userRegistrationPositive()[pri:1, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:07 EET" name="userRegistrationPositive" finished-at="2024-03-21T09:49:08 EET" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistrationPositive -->
+        <test-method signature="userRegistrationNegative()[pri:2, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:08 EET" name="userRegistrationNegative" finished-at="2024-03-21T09:49:08 EET" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistrationNegative -->
+        <test-method signature="userLoginNegative()[pri:3, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:08 EET" name="userLoginNegative" finished-at="2024-03-21T09:49:08 EET" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginNegative -->
+        <test-method signature="userLoginPositive()[pri:4, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:08 EET" name="userLoginPositive" finished-at="2024-03-21T09:49:08 EET" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginPositive -->
+        <test-method signature="createOperationPositive()[pri:5, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:08 EET" name="createOperationPositive" finished-at="2024-03-21T09:49:09 EET" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOperationPositive -->
+        <test-method signature="createOperationNegative()[pri:6, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:09 EET" name="createOperationNegative" finished-at="2024-03-21T09:49:09 EET" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOperationNegative -->
+        <test-method signature="searchOperationPositive()[pri:7, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:09 EET" name="searchOperationPositive" finished-at="2024-03-21T09:49:10 EET" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperationPositive -->
+        <test-method signature="searchOperationNegative()[pri:8, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:10 EET" name="searchOperationNegative" finished-at="2024-03-21T09:49:10 EET" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperationNegative -->
+        <test-method is-config="true" signature="close()[pri:0, instance:CalculatorTest@55f616cf]" started-at="2024-03-21T09:49:10 EET" name="close" finished-at="2024-03-21T09:49:10 EET" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- EGZAMINAS-TestNG -->
+  </suite> <!-- Default Suite -->
+</testng-results>
